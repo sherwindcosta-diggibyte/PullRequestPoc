@@ -39,3 +39,4 @@ app.listen(PORT, () => {
 });
 
 console.log("hello diggibyte");
+console.log("hello world");
